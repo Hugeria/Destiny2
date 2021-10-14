@@ -1,0 +1,20 @@
+title:Hugeira's Wishlist
+
+// Scathelocke (god-pve)
+dimwishlist:item=602618796&perks=3661387068,3142289711,2946784966,1774574192
+dimwishlist:item=602618796&perks=3661387068,3142289711,1820235745,1774574192
+dimwishlist:item=602618796&perks=3661387068,3142289711,4071163871,1774574192
+
+
+// Scathelocke - nane (pvp)
+//notes: desc tags:pvp
+dimwishlist:item=602618796&perks=1467527085,1087426260,3436462433
+dimwishlist:item=602618796&perks=1467527085,1087426260,4071163871
+
+
+// Scathelocke - naneee (controller)
+//notes: bddddd tags:controller
+dimwishlist:item=602618796&perks=1467527085,106909392,1820235745,3425386926
+dimwishlist:item=602618796&perks=1467527085,106909392,1820235745,699525795
+
+
